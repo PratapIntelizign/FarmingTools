@@ -2,9 +2,9 @@ package HandUse_Tools;
 
 public class HandTools {
 	public static void main(String[] args) {
-		SalesData SD = new SalesData();
+		//SalesData SD = new SalesData();
 		HandTools HT = new HandTools();
-		SD.displayData();
+		//SD.displayData();
 		HT.Spade();
 		Shovel();
 		Sickle();
