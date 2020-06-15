@@ -7,6 +7,7 @@ public class HandTools {
 		SD.displayData();
 		HT.Spade();
 		Shovel();
+		Sickle();
 	}
 
 	public void Spade() {
@@ -15,6 +16,9 @@ public class HandTools {
 
 	public static void Shovel() {
 		System.out.println("moving the soil");
+	}
+	public static void Sickle() {
+		System.out.println("For Cutting The Grass");
 	}
 
 }
