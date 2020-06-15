@@ -8,6 +8,7 @@ public class HandTools {
 		HT.Spade();
 		Shovel();
 		Sickle();
+		System.out.println("testing GITHUB");
 	}
 
 	public void Spade() {
